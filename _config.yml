@@ -6,11 +6,10 @@ title: wan's blog
 email: wan.lm@foxmail.com
 name: wan.lm
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here.
 keywords: [Your keywords]
 baseurl: '' # the subpath of your site, e.g. /`blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-domain: 'example.com' # the domain name for your site, e.g. example.com
+domain:"wanliming.github.io" # the domain name for your site, e.g. example.com
 language: zh-cn
 # Supported languages list:
 # en: English
